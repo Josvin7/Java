@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6328916f-20e6-41d3-8258-dc0ce8d10fb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bprqLLHuQxDIs8iXvWEVbHCX4u" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BrokenKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BrokenKeyboard" />
+      <module name="20200513" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BrokenKeyboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6328916f-20e6-41d3-8258-dc0ce8d10fb3" name="Default Changelist" comment="" />
+      <created>1589340065117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589340065117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="63" key="#com.intellij.ide.util.MemberChooser" timestamp="1589344052089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="796" y="63" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589344052089" />
+    <state width="590" height="175" key="GridCell.Tab.0.bottom" timestamp="1589383286258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="590" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589383286258" />
+    <state width="590" height="175" key="GridCell.Tab.0.center" timestamp="1589383286257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="590" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589383286257" />
+    <state width="590" height="175" key="GridCell.Tab.0.left" timestamp="1589383286257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="590" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589383286257" />
+    <state width="590" height="175" key="GridCell.Tab.0.right" timestamp="1589383286258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="590" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589383286258" />
+  </component>
+</project>

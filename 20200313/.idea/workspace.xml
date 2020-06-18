@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfa91994-94a0-4c04-a0ef-a12c02a53236" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../git-test-project" />
+  </component>
+  <component name="ProjectId" id="1Z3nDxreFuHbTfsscidQ3nLYesf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git-test-project" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.TestDemo6">
+    <configuration name="TestDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo5" />
+      <module name="20200313" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo6" />
+      <module name="20200313" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo7" />
+      <module name="20200313" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo8" />
+      <module name="20200313" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo9" />
+      <module name="20200313" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo6" />
+        <item itemvalue="Application.TestDemo9" />
+        <item itemvalue="Application.TestDemo8" />
+        <item itemvalue="Application.TestDemo7" />
+        <item itemvalue="Application.TestDemo5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa91994-94a0-4c04-a0ef-a12c02a53236" name="Default Changelist" comment="" />
+      <created>1584076529662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584076529662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="38" key="#Project_Structure" timestamp="1584083352643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="38" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1584083352643" />
+    <state x="497" y="135" key="FileChooserDialogImpl" timestamp="1584110814374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="497" y="135" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584110814374" />
+    <state x="546" y="254" key="Github.ShareDialog" timestamp="1584110719321">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="254" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1584110719321" />
+    <state x="555" y="67" key="Github.UntrackedFilesDialog" timestamp="1584110752219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="67" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584110752219" />
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom" timestamp="1584096002491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584096002491" />
+    <state width="1323" height="120" key="GridCell.Tab.0.center" timestamp="1584096002491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="120" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584096002491" />
+    <state width="1323" height="120" key="GridCell.Tab.0.left" timestamp="1584096002491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="120" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584096002491" />
+    <state width="1323" height="120" key="GridCell.Tab.0.right" timestamp="1584096002491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="120" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584096002491" />
+    <state x="323" y="61" key="NewModule_or_Project.wizard" timestamp="1584109455134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1584109455134" />
+    <state x="96" y="11" key="SettingsEditor" timestamp="1584111174020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="96" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584111174020" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1584111339972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584111339972" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584157157882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584157157882" />
+    <state x="57" y="0" key="new project wizard" timestamp="1584157199257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584157199257" />
+    <state x="359" y="226" width="716" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584090527439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="226" width="716" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1584090527439" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1584110985099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1584110985099" />
+  </component>
+</project>

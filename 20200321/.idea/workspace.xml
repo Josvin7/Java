@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2355d45d-efc9-46d9-9fe7-01981e37d066" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZR5fAWyvQtQEYPteUkVXGExhIN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.TestDemo3">
+    <configuration name="TestDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo1" />
+      <module name="20200321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo2" />
+      <module name="20200321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo3" />
+      <module name="20200321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo4" />
+      <module name="20200321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo5" />
+      <module name="20200321" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo3" />
+        <item itemvalue="Application.TestDemo4" />
+        <item itemvalue="Application.TestDemo5" />
+        <item itemvalue="Application.TestDemo2" />
+        <item itemvalue="Application.TestDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2355d45d-efc9-46d9-9fe7-01981e37d066" name="Default Changelist" comment="" />
+      <created>1584789166145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584789166145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1584850781964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="830" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584850781964" />
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom" timestamp="1584851801380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584851801380" />
+    <state width="1323" height="104" key="GridCell.Tab.0.center" timestamp="1584851801380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584851801380" />
+    <state width="1323" height="104" key="GridCell.Tab.0.left" timestamp="1584851801380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584851801380" />
+    <state width="1323" height="104" key="GridCell.Tab.0.right" timestamp="1584851801380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584851801380" />
+    <state x="184" y="5" key="SettingsEditor" timestamp="1584796266803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584796266803" />
+    <state x="705" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584850279860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="705" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584850279860" />
+    <state x="57" y="0" key="new project wizard" timestamp="1584851782419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584851782419" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="367fbb74-890c-4168-86c3-61a0323a6da8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bOlrLeLDqFRkz40pUsQ6LnukKp" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="367fbb74-890c-4168-86c3-61a0323a6da8" name="Default Changelist" comment="" />
+      <created>1588511218799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588511218799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="26" key="#Project_Structure" timestamp="1588511283240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1588511283240" />
+    <state x="96" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1588511574611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="96" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588511574611" />
+  </component>
+</project>
