@@ -64,7 +64,7 @@ public class TcpEchoServer {
     }
 
     public static void main(String[] args) throws IOException {
-        TcpEchoServer server = new TcpEchoServer(9090);
+        TcpEchoServer server = new TcpEchoServer(9000);
         server.start();
     }
 
