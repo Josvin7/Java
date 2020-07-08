@@ -23,20 +23,29 @@ public class Test {
                 arrayList.add(i);
             }
             int ans = -1;
-
-            while (arrayList.size() > 2) {
+            boolean p = false;
+            int tmp =2;
+            while (arrayList.size() > 1) {
                 int count = 0;
+                if( arrayList.size() == 3) {
+                    ans = (int) arrayList.get(2);
+                    System.out.println(ans);
+                }
                 System.out.println(arrayList);
-                for (int i = 2; i < N; i = i + 3 ) {
-                    if(N == 3) {
-                         ans = (int) arrayList.get(2);
-                    }
+                for (int i = tmp; i < N; i = i + 3 ) {
+
                     arrayList.remove(i - count);
                     count++;
+
+                }
+                p = true;
+                if(p == true) {
+                    tmp = 2 - N % 3;
                 }
                 N = arrayList.size();
             }
-            System.out.println(ans);
+
+
 
         }
     }
