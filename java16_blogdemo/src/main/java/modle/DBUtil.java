@@ -36,7 +36,17 @@ public class DBUtil {
         }
         return dataSource;
     }
+    // 通过这个方法来建立连接
 
+     public static Connection getConnection() {
+         try {
+             return getDataSource().getConnection();
+         } catch (SQLException e) {
+             e.printStackTrace();
+         }
+         return null;
+     }
+    // 通过这个方法来断开连接
     public static void close(Connection connection, PreparedStatement statement, ResultSet resultSet) {
 
             try {
