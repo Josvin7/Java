@@ -34,11 +34,11 @@ public class Test {
                     count++;
                     i++;
                 }
-                if ((count % 2 != 0) ) {
+                if ((count % 2 != 0) && i != len-1) {
                     ans[j] = array2[i];
                     j++;
                 }
-                if ((count % 2 == 0) && ) {
+                if ((count % 2 == 0) && i == len-1) {
                     ans[j] = array2[i];
                     j++;
                 }
