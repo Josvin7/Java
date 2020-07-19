@@ -132,8 +132,8 @@ public class ArticleDao {
         ArticleDao articleDao = new ArticleDao();
         // 1、测试新增文章
         Article article = new Article();
-        article.setTitle("我是标题2");
-        article.setContent("我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1我是正文1");
+        article.setTitle("this is title 2");
+        article.setContent("this is content 1 this is content 1 this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1");
         article.setUserId(1);
         articleDao.add(article);
     }

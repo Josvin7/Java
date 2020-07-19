@@ -19,28 +19,31 @@ public class Test {
                 array[i] = scanner.nextInt();
             }
             Arrays.sort(array);
-            int[] ans = new int[3];
+            int[] array2 = new int[arr+1];
+
+        for (int i = 0; i < arr; i++) {
+            array2[i] = array[i];
+        }
+        array2[arr] = array[arr -1];
+        int len = array2.length;
+            int[] ans = new int[2];
             int j = 0;
-            for (int i = 0; i < arr - 1; ) {
+            for (int i = 0; i < len-1; i++) {
                 int count = 1;
-                while (i < arr - 1 && array[i] == array[i + 1]) {
+                while ( i < len-1 && array2[i] == array2[i+1] ) {
                     count++;
                     i++;
                 }
-                if (count % 2 != 0 && i < arr - 1) {
-
-                    ans[j] = array[i];
+                if ((count % 2 != 0) ) {
+                    ans[j] = array2[i];
                     j++;
                 }
-                i++;
+                if ((count % 2 == 0) && ) {
+                    ans[j] = array2[i];
+                    j++;
+                }
+
             }
-           if (ans.length == 1) {
-                System.out.println(ans[0] + " " + array[1]);
-           } else {
-                System.out.println(ans[0] + " " + ans[1]);
-            }
-
-
-
+        System.out.println(ans[0] + " " + ans[1]);
     }
 }
