@@ -57,7 +57,7 @@ public class ArticleServlet extends HttpServlet {
         }
         // 2、根据作者 id 找到作者信息，进一步得到作者姓名
         UserDao userDao = new UserDao();
-        User author = userDao.selectById(articleId);
+        User author = userDao.selectById(article.getUserId());   //在这里刚才错误  在这里是根据用户id 获得作者信息
         // 3、构造页面
         String html = HtmlGenerator.getArticleDetailPage(article, user, author);
         resp.getWriter().write(html);
@@ -89,7 +89,8 @@ public class ArticleServlet extends HttpServlet {
         // 2、从请求中读取浏览器提交的数据（title ， content） ，并进行简单的校验
         String title = req.getParameter("title");
         String content = req.getParameter("content");
-        if (title == null || "".equals(content)) {
+        if (title == null || "".equals(title)
+                || content == null ||"".equals(content)) {
             String html = HtmlGenerator.getMessagePage("提交的标题或者内容为空", "article");
             resp.getWriter().write(html);
             return;

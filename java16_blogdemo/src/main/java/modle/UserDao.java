@@ -97,7 +97,7 @@ public class UserDao {
         }
         return null;
     }
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         UserDao userDao = new UserDao();
         // 1、先测试 add 方法
         //User user = new User();
@@ -107,5 +107,5 @@ public class UserDao {
         // 2、测试 selectByName
         //User user = userDao.selectByName("fwh");
         //System.out.println(user);
-    }
+    }*/
 }

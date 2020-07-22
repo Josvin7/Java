@@ -128,7 +128,7 @@ public class ArticleDao {
         }
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ArticleDao articleDao = new ArticleDao();
         // 1、测试新增文章
         Article article = new Article();
@@ -136,5 +136,5 @@ public class ArticleDao {
         article.setContent("this is content 1 this is content 1 this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1this is content 1");
         article.setUserId(1);
         articleDao.add(article);
-    }
+    }*/
 }
