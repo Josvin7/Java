@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df3cc2c8-d2c9-438c-9587-bd636145103b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../20200630B/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20200630B/src/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e1vENALhPCFhBRiU1EhK9i3OGm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="F:/javacode/classroom_code/java16/src/java16_0626" />
+  </component>
+  <component name="RunManager" selected="Application.HttpServerV2">
+    <configuration name="HttpServerV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServerV1" />
+      <module name="20200630" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpServerV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HttpServerV2" />
+      <module name="20200630" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpServerV2" />
+        <item itemvalue="Application.HttpServerV1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df3cc2c8-d2c9-438c-9587-bd636145103b" name="Default Changelist" comment="" />
+      <created>1593501801855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593501801855</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1593522563344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593522563344" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593501897647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593501897647" />
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1593583647496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593583647496" />
+    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1593583647495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593583647495" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1593583647495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593583647495" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1593583647496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593583647496" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1593501810745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593501810745" />
+    <state x="57" y="0" key="new project wizard" timestamp="1593530062501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593530062501" />
+    <state x="728" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593510703015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="728" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593510703015" />
+  </component>
+</project>

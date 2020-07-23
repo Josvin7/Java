@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="20200622:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85ae9001-6c1e-4a91-b7ad-bc3cac5941c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dfoPArYVNgF1Fro5ibWs7B9d5v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RunManager" selected="Application.UdpDictServer">
+    <configuration name="UdpDictServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpDictServer" />
+      <module name="20200622" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpEchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpEchoClient" />
+      <module name="20200622" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpEchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpEchoServer" />
+      <module name="20200622" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UdpDictServer" />
+        <item itemvalue="Application.UdpEchoClient" />
+        <item itemvalue="Application.UdpEchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ae9001-6c1e-4a91-b7ad-bc3cac5941c3" name="Default Changelist" comment="" />
+      <created>1592825481659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592825481659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1592832083430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="830" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1592832083430" />
+    <state x="221" y="294" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592834313105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="221" y="294" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1592834313105" />
+    <state x="449" y="70" key="FileChooserDialogImpl" timestamp="1592836101738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="70" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1592836101738" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1592835721131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592835721131" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1592835721130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592835721130" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1592835721130">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592835721130" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1592835721131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592835721131" />
+    <state x="309" y="61" key="NewModule_or_Project.wizard" timestamp="1592834607011">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="61" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1592834607011" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1592836223627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592836223627" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1592906260820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592906260820" />
+    <state x="57" y="0" key="new project wizard" timestamp="1592924175211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1592924175211" />
+  </component>
+</project>

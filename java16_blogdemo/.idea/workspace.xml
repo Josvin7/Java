@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29edffef-95d2-49df-a9f1-2e4b79788569" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20200621/out/production/20200621/UdpEchoClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200622/out/artifacts/20200622_jar/20200622.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200622/out/production/202006221/UdpDictServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200622/out/production/202006221/UdpEchoClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200622/out/production/202006221/UdpEchoServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200623/out/production/20200623/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200624/out/production/20200624/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200625/out/production/20200625/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpEchoClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpEchoServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpThreadEchoServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpThreadEchoServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpThreadPoolEchoServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/TcpThreadPoolEchoServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200626/out/production/20200626/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200627/out/production/20200627/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200627/out/production/20200627/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200628/out/production/20200628/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200628/out/production/20200628/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200628/out/production/20200628/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200629/out/production/20200629/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200629/out/production/20200629/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200629/out/production/20200629/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200629/out/production/20200629/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200629/out/production/20200629/Test5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630B/out/production/20200630B/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630B/out/production/20200630B/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200630B/out/production/20200630B/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200708/out/production/20200708/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200708/out/production/20200708/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200708/out/production/20200708/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200708/out/production/20200708/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200710/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200710/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200710/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20200710/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea_edu/src/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idea_edu/src/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/ArticleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/DeleteArticleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/api/RegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modle/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modle/ArticleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modle/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modle/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/modle/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/HtmlGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/classes/modle/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/classes/modle/ArticleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/classes/modle/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/classes/modle/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/classes/modle/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo-1.0-SNAPSHOT/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/api/ArticleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/api/DeleteArticleServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/api/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/api/RegisterServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/ArticleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/view/HtmlGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/lib/mysql-connector-java-5.1.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java16_blogdemo/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/CalcServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/TestMySQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/classes/java16_0713/ServletDemo9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/CalcServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/TestMySQL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/classes/java16_0713/ServletDemo9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/lib/mysql-connector-java-5.1.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16_maven-1.0-SNAPSHOT/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16_maven-1.0-SNAPSHOT/WEB-INF/classes/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16_maven-1.0-SNAPSHOT/WEB-INF/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16_maven-1.0-SNAPSHOT/WEB-INF/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/java16_maven-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java16_maven/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_niuke/out/production/java_niuke/java_20200714/Test1$GrayCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_niuke/out/production/java_niuke/java_20200714/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_niuke/out/production/java_niuke/java_20200718/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_niuke/out/production/java_niuke/java_20200718/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/dao/MusicDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/entity/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/test/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/util/DBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/web/WEB-INF/lib/commons-codec-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/web/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_maven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_maven/target/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_maven/target/classes/Test2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eiZdiyU9gBSGArM7rptgchSke5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_workspace\java16_blogdemo\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idea_workspace\java16_blogdemo\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArticleDao">
+    <configuration name="ArticleDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modle.ArticleDao" />
+      <module name="java16_blogdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modle.UserDao" />
+      <module name="java16_blogdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArticleDao" />
+        <item itemvalue="Application.UserDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29edffef-95d2-49df-a9f1-2e4b79788569" name="Default Changelist" comment="" />
+      <created>1594806462897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594806462897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="815" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1594996705718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="815" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594996705718" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595233480534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595233480534" />
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom" timestamp="1595399259504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595399259504" />
+    <state width="1323" height="148" key="GridCell.Tab.0.center" timestamp="1595399259502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595399259502" />
+    <state width="1323" height="148" key="GridCell.Tab.0.left" timestamp="1595399259500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595399259500" />
+    <state width="1323" height="148" key="GridCell.Tab.0.right" timestamp="1595399259504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595399259504" />
+    <state x="690" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1595120382341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="690" y="203" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595120382341" />
+    <state x="727" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1594906051927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="727" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1594906051927" />
+    <state x="682" y="172" key="run.anything.popup" timestamp="1594996363551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="682" y="172" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594996363551" />
+  </component>
+</project>

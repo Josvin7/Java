@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d5f819c-7c63-4724-a881-66de5f087f33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../20200708/src/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eSAt2ECrGVp2VLw8aPe9PMQ9kv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="test_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <module name="test_maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d5f819c-7c63-4724-a881-66de5f087f33" name="Default Changelist" comment="" />
+      <created>1594304831449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594304831449</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1594304879995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1594304879995" />
+    <state width="1367" height="141" key="GridCell.Tab.0.bottom" timestamp="1594354863758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594354863758" />
+    <state width="1367" height="141" key="GridCell.Tab.0.center" timestamp="1594354863758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594354863758" />
+    <state width="1367" height="141" key="GridCell.Tab.0.left" timestamp="1594354863758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594354863758" />
+    <state width="1367" height="141" key="GridCell.Tab.0.right" timestamp="1594354863758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594354863758" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1594304837217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594304837217" />
+  </component>
+</project>
