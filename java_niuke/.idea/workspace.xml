@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_20200726/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200727/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200727/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200727/Test3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
