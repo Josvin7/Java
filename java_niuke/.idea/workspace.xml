@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/java_20200728/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200728/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200729/Test1/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_web/OnlineMusic/src/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java_web/OnlineMusic/src/dao/UserDao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,10 +115,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="27" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595695365529" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1595949487715">
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596037133967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595949487715" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596037133967" />
     <state x="57" y="58" key="new project wizard" timestamp="1595672876867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
