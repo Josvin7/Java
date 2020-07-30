@@ -1,18 +1,16 @@
 package java_20200729.Test1;
+
 import java.util.ArrayList;
 import java.util.Stack;
 
 /**
  * @ Created with IntelliJ IDEA.
- * @ClassName Test1
+ * @ClassName Test2
  * @Description
  * @Author by小房
- * @Date 2020/7/29 23:39
+ * @Date 2020/7/30 9:32
  */
-
-
-
-public class Test1 {
+public class Test2 {
     public class ListNode {
         int val;
         ListNode next = null;
@@ -23,18 +21,22 @@ public class Test1 {
     }
 
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
-        //利用栈 先进后出的特性保存起来
-        Stack<Integer> stack = new Stack<>();
+        // 利用数组进行逆置
+        ArrayList<Integer> arrayList = new ArrayList<>();
         while (listNode != null) {
-            stack.add(listNode.val);
+            arrayList.add(listNode.val);
             listNode = listNode.next;
         }
-
-        //在放在新的arrayList中
-        ArrayList<Integer> arrayList =  new ArrayList<>();
-        while (!stack.empty()) {
-            arrayList.add(stack.pop());
+        int i = 0;
+        int j = arrayList.size() - 1;
+        for (; i < j; ) {
+            int tmp = arrayList.get(i);
+            arrayList.set(i, arrayList.get(j));
+            arrayList.set(j, tmp);
+            i++;
+            j--;
         }
         return arrayList;
+
     }
 }
