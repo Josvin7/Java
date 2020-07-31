@@ -114,7 +114,7 @@ public class MusicDao {
     }
 
     // 上传音乐
-    public int Insert(String title, String singer, String time, String url, int userid) {
+    public int insert(String title, String singer, String time, String url, int userid) {
         Connection connection = null;
         PreparedStatement statement = null;
         int ret = 0;
@@ -124,7 +124,7 @@ public class MusicDao {
             String sql = "insert into music(title, singer, time, url, userid) values (?, ?, ?, ?, ?)";
             connection = DBUtils.getConnection();
             statement = connection.prepareStatement(sql);
-            statement.setString(1, "title");
+            statement.setString(1, title);
             statement.setString(2, singer);
             statement.setString(3, time);
             statement.setString(4, url);
@@ -156,14 +156,15 @@ public class MusicDao {
             int ret = statement.executeUpdate();
             if (ret == 1) {
                 // 注意删除中间表的数据
-                if (findLoveMusicOnDel(id)) {
+                /*if (findLoveMusicOnDel(id)) {
                     int ret2 = removeLoveMusicOnDel(id);
                     if (ret2 == 1) {
                         return 1;
                     }
                 } else {
-
+                    return 1;
                 }
+*/
                 return 1;
             }
 
@@ -175,7 +176,7 @@ public class MusicDao {
         return 0;
     }
 
-    private int removeLoveMusicOnDel(int musicId) {
+    public int removeLoveMusicOnDel(int musicId) {
         Connection connection = null;
         PreparedStatement statement = null;
         try {
@@ -195,7 +196,7 @@ public class MusicDao {
         return 0;
     }
 
-    private boolean findLoveMusicOnDel(int id) {
+    public boolean findLoveMusicOnDel(int id) {
         Connection connection = null;
         PreparedStatement statement = null;
         ResultSet resultSet = null;
@@ -312,6 +313,8 @@ public class MusicDao {
             }
         } catch (SQLException e) {
             e.printStackTrace();
+        }finally {
+            DBUtils.getClose(connection, statement, resultSet);
         }
         return musics;
     }
@@ -328,6 +331,7 @@ public class MusicDao {
             String sql = "select m.id as music_id,title,singer,time,url,userid from lovemusic lm,music m where lm.music_id=m.id and user_id=? and title like '%"+str+"%'";
             connection = DBUtils.getConnection();
             statement = connection.prepareStatement(sql);
+            statement.setInt(1,user_id);
             resultSet = statement.executeQuery();
             while (resultSet.next()) {
                 Music music = new Music();
