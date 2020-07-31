@@ -6,23 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d21dbfd-04a5-4e3f-b16f-c93114883225" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/onlineMusic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/MusicService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/DeleteSelMusicServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/DeleteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/FindLoveMusicServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/FindMusicServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/LoveMusicServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/RemoveLoveServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/UploadInsertServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlet/UploadMusicServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineMusic/dao/MusicDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineMusic/dao/MusicDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/MusicDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/MusicDao.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d21dbfd-04a5-4e3f-b16f-c93114883225" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,8 +67,8 @@
       <file leaf-file-name="RemoveLoveServlet.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/servlet/RemoveLoveServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="572">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,9 +183,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-74" />
-    <option name="y" value="54" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="42" />
     <option name="width" value="1346" />
     <option name="height" value="679" />
   </component>
@@ -497,15 +481,15 @@
       <workItem from="1595563614723" duration="2705000" />
       <workItem from="1595993388826" duration="796000" />
       <workItem from="1596078786637" duration="13147000" />
-      <workItem from="1596160108359" duration="28825000" />
+      <workItem from="1596160108359" duration="30030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45473000" />
+    <option name="totallyTimeSpent" value="46678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="55" width="1346" height="679" extended-state="0" />
+    <frame x="16" y="42" width="1346" height="679" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -526,7 +510,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50555557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50555557" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25583205" />
       <window_info anchor="bottom" id="Problems" order="7" />
@@ -953,8 +937,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/servlet/RemoveLoveServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        <state relative-caret-position="572">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
