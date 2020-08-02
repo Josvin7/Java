@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="29edffef-95d2-49df-a9f1-2e4b79788569" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/modle/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/modle/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/modle/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/modle/DBUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/java16_blogdemo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/java16_blogdemo.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/java16_blogdemo/WEB-INF/classes/modle/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java16_blogdemo/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/java16_blogdemo/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -107,30 +113,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595233480534" />
-    <state width="1323" height="148" key="GridCell.Tab.0.bottom" timestamp="1596213935373">
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom" timestamp="1596296331986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596213935373" />
-    <state width="1323" height="148" key="GridCell.Tab.0.center" timestamp="1596213935373">
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596296331986" />
+    <state width="1323" height="148" key="GridCell.Tab.0.center" timestamp="1596296331986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596213935373" />
-    <state width="1323" height="148" key="GridCell.Tab.0.left" timestamp="1596213935373">
+    <state width="1323" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596296331986" />
+    <state width="1323" height="148" key="GridCell.Tab.0.left" timestamp="1596296331986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596213935373" />
-    <state width="1323" height="148" key="GridCell.Tab.0.right" timestamp="1596213935373">
+    <state width="1323" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596296331986" />
+    <state width="1323" height="148" key="GridCell.Tab.0.right" timestamp="1596296331986">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596213935373" />
+    <state width="1323" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596296331986" />
     <state x="184" y="5" key="SettingsEditor" timestamp="1596213685026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596213685026" />
-    <state x="690" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1596207961746">
+    <state x="690" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1596257052491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="690" y="203" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596207961746" />
+    <state x="690" y="203" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596257052491" />
     <state x="727" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1594906051927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
