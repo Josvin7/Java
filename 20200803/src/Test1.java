@@ -10,6 +10,6 @@ import java.util.HashMap;
 public class Test1 {
     public static void main(String[] args) {
         HashMap<String, Integer> hashMap = new HashMap<>();
-        hashMap.put("qwqe", 10);
+        hashMap.put("aaaaa", 10);
     }
 }
