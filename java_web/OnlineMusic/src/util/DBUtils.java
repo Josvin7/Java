@@ -18,8 +18,8 @@ import java.sql.SQLException;
  */
 public class DBUtils {
     private static String url = "jdbc:mysql://127.0.0.1:3306/musicserver?characterEncoding=utf-8&useSSL=true";
-    private static String password = "fwh147258";
     private static String username = "root";
+    private static String password = "";
     private static volatile DataSource DATASOURCE;
     private static DataSource getDataSource(){
 // 双重校验锁

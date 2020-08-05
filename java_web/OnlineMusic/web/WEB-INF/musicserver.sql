@@ -37,4 +37,3 @@ CREATE TABLE `lovemusic` (
 );
 
 INSERT INTO user(username,password,age,gender,email) VALUES("fwh","123","23","男","2308254971@qq.com");
-INSERT INTO music(title,singer,time,url, userid) VALUES("南方姑娘","赵雷","2020-07-30","music、","1262913815@qq.com");
