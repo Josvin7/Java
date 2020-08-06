@@ -61,7 +61,7 @@ public class HttpServerV2 {
                 response.setMessage("OK");
                 // HTTP 的 header 中允许有多个 Set-Cookie 字段. 但是
                 // 此处 response 中使用 HashMap 来表示 header 的. 此时相同的 key 就覆盖
-                response.setHeader("Set-Cookie", "user=tz");
+                response.setHeader("Set-Cookie", "user=fwh");
                 response.writeBody("<h1>set cookieUser</h1>");
             } else if (request.getUrl().startsWith("/cookieTime")) {
                 response.setStatus(200);

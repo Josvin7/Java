@@ -6,17 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d21dbfd-04a5-4e3f-b16f-c93114883225" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/musicserver.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../java_niuke/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_niuke/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineMusic/util/DBUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineMusic/util/DBUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/DeleteSelMusicServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/DeleteSelMusicServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/DeleteServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/DeleteServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlet/UploadMusicServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlet/UploadMusicServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/DBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/DBUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/dq.sql" beforeDir="false" afterPath="$PROJECT_DIR$/web/dq.sql" afterDir="false" />
-    </list>
+    <list default="true" id="2d21dbfd-04a5-4e3f-b16f-c93114883225" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,8 +74,8 @@
       <file leaf-file-name="loveMusic.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/loveMusic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+            <state relative-caret-position="876">
+              <caret line="120" column="7" lean-forward="true" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -241,7 +231,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="16" />
     <option name="y" value="42" />
     <option name="width" value="1346" />
@@ -546,16 +536,15 @@
       <workItem from="1595993388826" duration="796000" />
       <workItem from="1596078786637" duration="13147000" />
       <workItem from="1596160108359" duration="30030000" />
-      <workItem from="1596597389868" duration="12238000" />
+      <workItem from="1596597389868" duration="12835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58916000" />
+    <option name="totallyTimeSpent" value="59513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="42" width="1346" height="679" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -1022,8 +1011,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/loveMusic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+        <state relative-caret-position="876">
+          <caret line="120" column="7" lean-forward="true" selection-start-line="120" selection-start-column="7" selection-end-line="120" selection-end-column="7" />
         </state>
       </provider>
     </entry>

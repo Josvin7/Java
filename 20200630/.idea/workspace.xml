@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df3cc2c8-d2c9-438c-9587-bd636145103b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../20200630B/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20200630B/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20200630/HttpServerV2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20200630/HttpServerV2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/20200630/HttpServerV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/20200630/HttpServerV2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HttpServerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HttpServerV2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="F:/javacode/classroom_code/java16/src/java16_0626" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_niuke" />
   </component>
   <component name="RunManager" selected="Application.HttpServerV2">
     <configuration name="HttpServerV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -68,30 +70,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593522563344" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1593501897647">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596703922648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593501897647" />
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1593583647496">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596703922648" />
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom" timestamp="1596703923638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593583647496" />
-    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1593583647495">
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596703923638" />
+    <state width="1322" height="237" key="GridCell.Tab.0.center" timestamp="1596703923637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593583647495" />
-    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1593583647495">
+    <state width="1322" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596703923637" />
+    <state width="1322" height="237" key="GridCell.Tab.0.left" timestamp="1596703923637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593583647495" />
-    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1593583647496">
+    <state width="1322" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596703923637" />
+    <state width="1322" height="237" key="GridCell.Tab.0.right" timestamp="1596703923638">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="118" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593583647496" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1593501810745">
+    <state width="1322" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596703923638" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596676960963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593501810745" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596676960963" />
     <state x="57" y="0" key="new project wizard" timestamp="1593530062501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

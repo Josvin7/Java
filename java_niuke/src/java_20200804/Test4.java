@@ -1,8 +1,8 @@
 package java_20200804;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Scanner;
+        import java.util.HashMap;
+        import java.util.Scanner;
 
 /**
  * @ Created with IntelliJ IDEA.
@@ -17,15 +17,17 @@ public class Test4 {
         int n = scanner.nextInt();
         int m = scanner.nextInt();
         int[] array = new int[n];
+        // array 每张桌子最大人数
         for (int i = 0; i < n; i++) {
             array[i] = scanner.nextInt();
         }
+
         HashMap<Integer, Integer> map = new HashMap<>();
         int[] aa = new int[m];
-
+        // aa 消费金额
         for (int i = 0; i < m; i++) {
-            int a = scanner.nextInt();
-            int b = scanner.nextInt();
+            int a = scanner.nextInt();// 人数
+            int b = scanner.nextInt();// 消费金额
             aa[i] = b;
             map.put(b, a );
         }
@@ -34,15 +36,15 @@ public class Test4 {
 
         Arrays.sort(aa);
         int result = 0;
-        int ui = 0;
+        int ui = 0;// 统计桌子
         for (int i = m-1; i >= 0; i--) {
-            int max_n = array[cc];
+            int max_n = array[cc];// 桌子最大人数
             if (map.get(aa[i]) <= max_n) {
                 ui++;
                 result += map.get(aa[i]);
                 cc--;
             }
-            if (ui >= n) {
+            if (ui == n) {
                 break;
             }
         }
