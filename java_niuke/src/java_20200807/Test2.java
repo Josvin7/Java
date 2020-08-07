@@ -1,40 +1,39 @@
-package java_20200806;
+package java_20200807;
+
 
 import java.util.*;
-public class Test{
-    public static void main(String[] args){
-        try(Scanner in = new Scanner(System.in)){
-            System.out.println(helper(in.nextInt(),in.nextInt()));
+public class Test2 {
+    public static void main(String[] args) {
+        try (Scanner in = new Scanner(System.in)) {
+            System.out.println(helper(in.nextInt(), in.nextInt()));
         }
     }
-    public static int helper(int l,int r){
+
+    public static int helper(int l, int r) {
 
         int count = 0;
-        if(l == 1) {
+        if (l == 1) {
             l++;//1不是素数
         }
-        while(l <= r){
+        while (l <= r) {
             String str = String.valueOf(l);
-            for (int i = 0; i < str.length() ; i++) {
-                if(isHuiWen(l) && isSu(l)) {
+            for (int i = 0; i < str.length(); i++) {
+                int ans = toDelOne(str, i);
+                if (isHuiWen(l) && isSu(l)) {
                     count++;
                     break;
+                } else if (isHuiWen(ans) && isSu(ans)) {
+                    count++;
+                    continue;
                 }
-                for (int j = 0; j < str.length() ; j++) {
-                    int ans = toDelOne(str, i);
-                    if(isHuiWen(ans) && isSu(ans)) {
-                        count++;
-                        break;
-                    }
-                }
-
-                //System.out.println(ans);
-
             }
             l++;
+
         }
         return count;
     }
+
+
 
     private static int toDelOne(String str, int i) {
         int num = Integer.parseInt(str);

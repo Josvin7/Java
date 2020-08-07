@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_20200806/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_20200806/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../20200630/out/production/20200630/HttpServerV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../20200630/src/HttpServerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../20200630/src/HttpServerV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_20200804/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200804/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200807/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200807/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_20200806/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200806/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_20200806/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200806/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +31,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Test1 (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200804.Main" />
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200806.Test" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200804.*" />
+          <option name="PATTERN" value="java_20200806.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +45,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200806.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200807.Test" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200806.*" />
+          <option name="PATTERN" value="java_20200807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200725.Test1" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200807.Test2" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200725.*" />
+          <option name="PATTERN" value="java_20200807.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,26 +129,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596713319223" />
-    <state width="1322" height="153" key="GridCell.Tab.0.bottom" timestamp="1596720382277">
+    <state width="1322" height="126" key="GridCell.Tab.0.bottom" timestamp="1596778413552">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="153" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596720382277" />
-    <state width="1322" height="153" key="GridCell.Tab.0.center" timestamp="1596720382277">
+    <state width="1322" height="126" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596778413552" />
+    <state width="1322" height="126" key="GridCell.Tab.0.center" timestamp="1596778413551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="153" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596720382277" />
-    <state width="1322" height="153" key="GridCell.Tab.0.left" timestamp="1596720382277">
+    <state width="1322" height="126" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596778413551" />
+    <state width="1322" height="126" key="GridCell.Tab.0.left" timestamp="1596778413551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="153" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596720382277" />
-    <state width="1322" height="153" key="GridCell.Tab.0.right" timestamp="1596720382277">
+    <state width="1322" height="126" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596778413551" />
+    <state width="1322" height="126" key="GridCell.Tab.0.right" timestamp="1596778413551">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="153" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596720382277" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596638083624">
+    <state width="1322" height="126" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596778413551" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596764409449">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596638083624" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596764409449" />
     <state x="57" y="58" key="new project wizard" timestamp="1595672876867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

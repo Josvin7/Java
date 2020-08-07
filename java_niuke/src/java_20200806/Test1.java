@@ -3,11 +3,12 @@ package java_20200806;
 import java.util.*;
 public class Test1{
     public static void main(String[] args){
-        Scanner in = new Scanner(System.in);
-        System.out.println(helper(in.nextInt(),in.nextInt()));
+        try(Scanner in = new Scanner(System.in)){
+            System.out.println(helper(in.nextInt(),in.nextInt()));
+        }
 
     }
-    public static int helper(int l,int r){
+    public static int helper(int l,int r) {
 
         int count = 0;
         if(l == 1) {
@@ -17,19 +18,16 @@ public class Test1{
             int tmp1 = l / 10;
             String str = String.valueOf(l);
             int len = str.length();
-           if (l % 2 ==0) {
-               str = str.substring(0,len/2 -1) + str.substring(len/2, len);
-           }else {
-               str = str.substring(0,len/2) + str.substring(len/2, len);
-           }
+            str = str.substring(0,len/2 -1) + str.substring(len/2 + 1, len);
             int tmp2 = Integer.parseInt(str);
+
             if(isHuiWen(l) && isSu(l)) {
                 count++;
                 System.out.println(l);
             }else if (isHuiWen(tmp1) && isSu(tmp1)){
                 count++;
                 System.out.println(l);
-            } else if(isHuiWen(tmp2) && isSu(tmp2)){
+            } else if( (tmp2 != 1) && isHuiWen(tmp2) && isSu(tmp2)){
                 count++;
                 System.out.println(l);
             }
