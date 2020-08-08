@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/java_20200808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Test12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Test123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200808/Test22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_20200807/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200807/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200806.Test" />
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200808.Demo" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200806.*" />
+          <option name="PATTERN" value="java_20200808.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200807.Test" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200808.Test11" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200807.*" />
+          <option name="PATTERN" value="java_20200808.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200806.Test1" />
+    <configuration name="Test123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200808.Test123" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200806.*" />
+          <option name="PATTERN" value="java_20200808.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200804.Test3" />
+    <configuration name="Test22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200808.Test22" />
       <module name="java_niuke" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_20200804.*" />
+          <option name="PATTERN" value="java_20200808.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Test123" />
+        <item itemvalue="Application.Test11" />
+        <item itemvalue="Application.Test22" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test1 (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -122,30 +129,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595656697738" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596713319223">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596867061512">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596713319223" />
-    <state width="1322" height="79" key="GridCell.Tab.0.bottom" timestamp="1596815826827">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596867061512" />
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom" timestamp="1596892592949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="79" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596815826827" />
-    <state width="1322" height="79" key="GridCell.Tab.0.center" timestamp="1596815826827">
+    <state width="1322" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596892592949" />
+    <state width="1322" height="154" key="GridCell.Tab.0.center" timestamp="1596892592949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="79" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596815826827" />
-    <state width="1322" height="79" key="GridCell.Tab.0.left" timestamp="1596815826821">
+    <state width="1322" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596892592949" />
+    <state width="1322" height="154" key="GridCell.Tab.0.left" timestamp="1596892592949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="79" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596815826821" />
-    <state width="1322" height="79" key="GridCell.Tab.0.right" timestamp="1596815826827">
+    <state width="1322" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596892592949" />
+    <state width="1322" height="154" key="GridCell.Tab.0.right" timestamp="1596892592949">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="79" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596815826827" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596764409449">
+    <state width="1322" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596892592949" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596853092233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596764409449" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596853092233" />
     <state x="57" y="58" key="new project wizard" timestamp="1595672876867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

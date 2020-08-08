@@ -6,9 +6,10 @@ public class Test2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println(helper(in.nextInt(), in.nextInt()));
-        /*这个代码可以检验删数的结果
-        for (int i = 0; i < 6; i++) {
-            int ans = toDelOne("123456", i);
+        //*这个代码可以检验删数的结果
+       /* String str = String.valueOf(in.nextInt());
+        for (int i = 0; i < str.length(); i++) {
+            int ans = toDelOne(str, i);
             System.out.println(ans);
         }*/
     }
@@ -22,11 +23,11 @@ public class Test2 {
                 //注意1的判断
                 if (l != 1 && isHuiWen(l) && isSu(l)) {
                     count++;
-                    System.out.println(l);
+                    //System.out.println(l);
                     break;
-                } else if (ans != 1 && isHuiWen(ans) && isSu(ans)) {
+                } else if (ans > 1 && isHuiWen(ans) && isSu(ans)) {
                     count++;
-                    System.out.println(ans);
+                    //System.out.println(ans);
                     break;
                 }
             }
