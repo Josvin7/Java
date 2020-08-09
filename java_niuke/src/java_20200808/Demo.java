@@ -20,7 +20,7 @@ public class Demo {
             num2 = "0" + num2;     //预处理成等长字符串
         }
         StringBuilder s1 = new StringBuilder(num1);
-        StringBuilder s2 = new StringBuilder(num2);       //反过来0下标对应个位
+        StringBuilder s2 = new StringBuilder(num2);
         StringBuilder r = new StringBuilder();
         int flag =0;                                             //用flag标记借位
         for(int i = s1.length()-1; i >= 0; --i) {
@@ -31,7 +31,8 @@ public class Demo {
                 flag = 1;
             }
         }
-        String str =  r.reverse().toString();
+        String str =  r.reverse().toString();// 注意要反转
+        // 注意输出 0000 前导0的情况
         int len = str.length();
         int index = 0;
         while( index < len && str.charAt(index) == '0' ) {

@@ -25,16 +25,24 @@ public class Test11 {
             for(int i = 0; i < n; i++){
                 sum += arrays[i];
             }
-            System.out.println(toHelper(arrays, n, sum));
+            int max = arrays[n-1];
+            System.out.println(toHelper(arrays, n, sum, max));
         }
     }
-    private static int toHelper(int[] arrays, int n, int sum) {
-        if (n<1) {
+    private static int toHelper(int[] arrays, int n, int sum, int max) {
+        /*if (n<1) {
             return sum;
         }
-        int max = arrays[n-1];
+*/
         int j = n-1;
-        while(j  >= 0) {
+        if(j < 0) {
+            return sum;
+        }
+        if (j == 0 && arrays[j] == max) {
+         //   return
+
+        }
+        while(j  > 0) {
             int count = 0;
             count += arrays[j];
             if (count == max) {
@@ -47,6 +55,6 @@ public class Test11 {
             j--;
         }
         //sum = sum - max;
-        return toHelper(arrays, n-1, sum);
+        return toHelper(arrays, n-1, sum, max);
     }
 }
