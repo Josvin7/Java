@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_20200808/Test09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_20200809/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_20200809/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/DishDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/model/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java_web/fwh_order_system/src/main/java/util/OrderSystemException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_20200808.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200809/java_20200808.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_20200808/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200808/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_20200808/Test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200808/Test11.java" afterDir="false" />
-    </list>
+    <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +27,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="F:/javacode/classroom_code/java16/src/java16_0425/TreeInterview.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_web/fwh_order_system" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Test2">
     <configuration name="BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -143,10 +127,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595656697738" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1596979792430">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1597049432095">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596979792430" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597049432095" />
     <state width="1322" height="76" key="GridCell.Tab.0.bottom" timestamp="1596990475066">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -163,10 +147,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="76" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596990475066" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1596963391940">
+    <state x="184" y="5" key="SettingsEditor" timestamp="1597043990330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596963391940" />
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597043990330" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1597043859816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597043859816" />
     <state x="57" y="0" key="new project wizard" timestamp="1596972486108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
