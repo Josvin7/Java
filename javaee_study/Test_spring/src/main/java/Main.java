@@ -1,5 +1,7 @@
 import josvin.Duck;
 import josvin.Duck2;
+import josvin.Duck3;
+import josvin.DuckShop;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -20,11 +22,17 @@ public class Main {
         //System.out.println(fwh2);
 
         // 通过类型获取 bean 对象，只有唯一才可以
-        System.out.println(context.getBean(String.class));
+        //System.out.println(context.getBean(String.class));
 
-        Duck d1 = (Duck) context.getBean("d1");
-        System.out.println(d1);
+        Duck d11 = (Duck) context.getBean("d11");
+        System.out.println(d11);
         Duck2 d2 = (Duck2) context.getBean("d2");
         System.out.println(d2);
+
+        Duck3 d3 = (Duck3) context.getBean("d3");
+        System.out.println(d3);
+
+        DuckShop duckShop = (DuckShop) context.getBean("shop");
+        System.out.println(duckShop);
     }
 }

@@ -15,13 +15,58 @@
 </bean>
     <bean  class="java.lang.String">
 -->
-    <bean id="d1" class="josvin.Duck">
-        <property name="name" value="blackDuck"></property>
+    <bean id="s1" class="java.lang.String">
+        <constructor-arg value="blackDuck"></constructor-arg>
+    </bean>
+
+    <bean id="s2" class="java.lang.String">
+        <constructor-arg value="北京烤鸭"></constructor-arg>
+    </bean>
+    <bean id="s3" class="java.lang.String">
+        <constructor-arg value="酱鸭"></constructor-arg>
+    </bean>
+
+
+    <bean id="d11" class="josvin.Duck">
+        <property name="name" ref="s1" ></property>
         <property name="age" value="2"></property>
     </bean>
+
+    <bean id="d12" class="josvin.Duck">
+        <property name="name" ref="s2" ></property>
+        <property name="age" value="2"></property>
+    </bean>
+
+    <bean id="d13" class="josvin.Duck">
+        <property name="name" ref="s3" ></property>
+        <property name="age" value="2"></property>
+    </bean>
+
+    <bean id="shop" class="josvin.DuckShop">
+        <property name="ducks">
+            <list>
+                <ref bean="d11"></ref>
+                <ref bean="d12"></ref>
+                <ref bean="d13"></ref>
+            </list>
+        </property>
+    </bean>
+
     <bean id="d2" class="josvin.Duck2">
-        <constructor-arg name="n" value="LadyGaga"></constructor-arg>
+        <constructor-arg name="n" value="LadyGaga" ></constructor-arg>
         <constructor-arg name="a" value="23"></constructor-arg>
+    </bean>
+
+    <bean id="d3" class="josvin.Duck3">
+        <property name="name" ref="s2" ></property>
+        <property name="age" value="1"></property>
+        <property name="next" ref="d4"></property>
+
+    </bean>
+    <bean id="d4" class="josvin.Duck3">
+        <property name="name" ref="s3" ></property>
+        <property name="age" value="3"></property>
+
 
     </bean>
 
