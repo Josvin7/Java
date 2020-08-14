@@ -20,7 +20,7 @@ import java.sql.SQLException;
 // 2、按照名字查找用户 （登录的时候使用）
 // 3、按照用户 id 查找  （展示信息的时候使用）
 public class UserDao {
-    public void add(User user) throws OrderSystemException {
+    public  void add(User user) throws OrderSystemException {
         // 【注意】 JDBC 编程
         // 1、先获取数据库的连接（DataSource）
         Connection connection = DBUtil.getConnection();
@@ -77,7 +77,43 @@ public class UserDao {
         return null;
     }
 
-    public User selectById(int userId) {
+    public User selectById(int userId) throws OrderSystemException {
         // 1、获取数据库连接
+        Connection connection = DBUtil.getConnection();
+        // 2、拼装 sql
+        String sql = "selecy * from user where userId = ?";
+        PreparedStatement statement = null;
+        ResultSet resultSet = null;
+        try {
+            statement = connection.prepareStatement(sql);
+            statement.setInt(1, userId);
+            // 3、执行 sql
+            resultSet = statement.executeQuery();
+            // 4、遍历结果集， userId 是主键，只能查到一个结果
+            if (resultSet.next()) {
+                User user = new User();
+                user.setName(resultSet.getString("name"));
+                user.setPassword(resultSet.getString("password"));
+                user.setIsAdmin(resultSet.getInt("isAdmin"));
+                user.setUserId(resultSet.getInt("userId"));
+                return  user;
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+            throw new OrderSystemException("按照 id 查找用户失败");
+        } finally {
+            // 5、断开连接
+            DBUtil.close(connection, statement, resultSet);
+        }
+        return null;
+    }
+
+    public static void main(String[] args) throws OrderSystemException {
+        UserDao userDao = new UserDao();
+        User user = new User();
+        user.setName("fwh");
+        user.setPassword("123456");
+        user.setIsAdmin(0);
+        userDao.add(user);
     }
 }
