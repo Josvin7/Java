@@ -30,8 +30,8 @@ public class DBUtil {
                 if (dataSource == null) {
                     dataSource = new MysqlDataSource();
                     ((MysqlDataSource)dataSource).setURL(URL);
-                    ((MysqlDataSource)dataSource).setURL(USERNAME);
-                    ((MysqlDataSource)dataSource).setURL(PASSWORD);
+                    ((MysqlDataSource)dataSource).setUser(USERNAME);
+                    ((MysqlDataSource)dataSource).setPassword(PASSWORD);
                 }
             }
         }
@@ -45,7 +45,7 @@ public class DBUtil {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        System.out.println("数据库连接失败，请检查数据库是否启动1正常， url 是否正确");
+        System.out.println("数据库连接失败，请检查数据库是否启动正常， url 是否正确");
         return null;
     }
 

@@ -25,7 +25,7 @@ public class UserDao {
         // 1、先获取数据库的连接（DataSource）
         Connection connection = DBUtil.getConnection();
         // 2、拼装 sql 语句 （PrepareStatement）
-        String sql = "insert into user values(null, ? , ? , ?)";
+        String sql = "insert into user values(null, ?, ?, ?)";
         PreparedStatement statement = null;
         try {
             statement = connection.prepareStatement(sql);
@@ -81,7 +81,7 @@ public class UserDao {
         // 1、获取数据库连接
         Connection connection = DBUtil.getConnection();
         // 2、拼装 sql
-        String sql = "selecy * from user where userId = ?";
+        String sql = "select * from user where userId = ?";
         PreparedStatement statement = null;
         ResultSet resultSet = null;
         try {
