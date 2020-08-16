@@ -18,10 +18,10 @@ import java.util.Map;
 public class AppConfig {
 
     @Bean
-    public Map<Integer, Integer> test() {
-        Map<Integer,Integer> map = new HashMap<>();
-        map.put(1,100);
-        map.put(2, 330);
+    public Map<Integer, String> test() {
+        Map<Integer,String> map = new HashMap<>();
+        map.put(1,"博哥");
+        map.put(2, "汤老师");
         return map;
     }
 }
