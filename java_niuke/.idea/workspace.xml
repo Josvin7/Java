@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42151cca-585a-4522-a391-e2a9323bed04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_20200816/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaee_study/springboot_study/src/main/java/josvin/springboot_study/modle/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaee_study/springboot_study/src/main/java/josvin/springboot_study/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaee_study/springboot_study/src/main/java/josvin/springboot_study/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javaee_study/springboot_study/src/main/java/josvin/springboot_study/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaee_study/springboot_study/src/main/java/josvin/springboot_study/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_20200816/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_20200816/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_20200816/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +33,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Test1 (1)">
+  <component name="RunManager" selected="Application.Test2 (1)">
     <configuration name="BuildTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java16_0423.BuildTree" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java16_0423.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_20200808.Demo" />
-      <module name="java_niuke" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_20200808.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_20200816.Test2" />
+      <module name="java_niuke" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_20200816.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_20200809.Test2" />
       <module name="java_niuke" />
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2 (1)" />
         <item itemvalue="Application.Test1 (1)" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.BuildTree" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -136,30 +134,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597049432095" />
-    <state width="1322" height="107" key="GridCell.Tab.0.bottom" timestamp="1597568805771">
+    <state width="1322" height="82" key="GridCell.Tab.0.bottom" timestamp="1597580536195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597568805771" />
-    <state width="1322" height="107" key="GridCell.Tab.0.center" timestamp="1597568805771">
+    <state width="1322" height="82" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597580536195" />
+    <state width="1322" height="82" key="GridCell.Tab.0.center" timestamp="1597580536195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597568805771" />
-    <state width="1322" height="107" key="GridCell.Tab.0.left" timestamp="1597568805770">
+    <state width="1322" height="82" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597580536195" />
+    <state width="1322" height="82" key="GridCell.Tab.0.left" timestamp="1597580536195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597568805770" />
-    <state width="1322" height="107" key="GridCell.Tab.0.right" timestamp="1597568805771">
+    <state width="1322" height="82" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597580536195" />
+    <state width="1322" height="82" key="GridCell.Tab.0.right" timestamp="1597580536195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="107" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597568805771" />
+    <state width="1322" height="82" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597580536195" />
     <state x="184" y="5" key="SettingsEditor" timestamp="1597043990330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597043990330" />
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1597043859816">
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1597574822875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597043859816" />
+    <state x="363" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597574822875" />
     <state x="57" y="0" key="new project wizard" timestamp="1596972486108">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -168,5 +166,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="210" width="716" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1596983476054" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597579588131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597579588131" />
   </component>
 </project>
