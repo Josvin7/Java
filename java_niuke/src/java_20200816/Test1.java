@@ -13,37 +13,40 @@ import java.util.Stack;
  */
 public class Test1 {
     public static void main(String[] args) {
-        //Scanner scanner = new Scanner(System.in);
-        String str ="hello undo redo ghj";
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.nextLine();
         //System.out.println(str);
         String[] arrStr=str.split(" ");
-        System.out.println(arrStr);
+        // System.out.println(arrStr);
         Stack<String> stack1 = new Stack<String>();
         Stack<String> stack2 = new Stack<String>();
-        int tmp = 0;
         for (int i = 0; i < arrStr.length ; i++) {
             System.out.println(arrStr[i]);
-            if (arrStr[i] != "undo" && arrStr[i] != "redo") {
+            if (!arrStr[i].equals("undo") && !arrStr[i].equals("redo")) {
                 stack1.push(arrStr[i]);
             }
-            if (!stack1.isEmpty() && arrStr[i] == "undo") {
-                stack2.push(stack1.pop());
-               // tmp = 1;
-            }
-            if (!stack2.isEmpty() && arrStr[i] == "redo") {
 
+            if (!stack1.isEmpty() && arrStr[i].equals("undo")) {
+                //stack1.pop();
+                stack2.push(stack1.pop());
+            } else if (!stack2.isEmpty() && arrStr[i].equals("redo")) {
+                //stack1.pop();
                 stack1.push(stack2.pop());
             }
         }
-
+        int len = stack1.size();
         String ans = "";
+        String[] str1 = new String[len];
+        int i = 0;
         while (!stack1.isEmpty()) {
-            ans += stack1.pop();
-            //if ()
-            ans += " ";
+            str1[i++] = stack1.pop();
         }
-
+        for (int j = len-1; j >= 0; j--) {
+            ans += str1[j];
+            if (j > 0) {
+                ans += " ";
+            }
+        }
         System.out.println(ans);
-
     }
 }
