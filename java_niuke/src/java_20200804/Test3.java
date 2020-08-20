@@ -2,10 +2,6 @@ package java_20200804;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-
-import static java.util.Arrays.*;
 
 /**
  * @ Created with IntelliJ IDEA.
@@ -23,22 +19,17 @@ public class Test3 {
         Arrays.sort(array);
         System.out.println(Arrays.toString(array));
     }
-
+//输入n个整数，找出其中最小的K个数。例如输入4,5,1,6,2,7,3,8这8个数字，则最小的4个数字是1,2,3,4。
     public ArrayList<Integer> GetLeastNumbers_Solution(int[] input, int k) {
-        if (k > input.length || k <= 0) {
-            return null;
-        }
         ArrayList<Integer> list = new ArrayList<>();
-        /*int len = input.length;
-        Arrays.sort(input);
-        for (int i = 0; i <= k; i++) {
-            list.add(input[i]);
-        }*/
+        if (k > input.length || k <= 0) {
+            return list;
+        }
         for (int i = 0; i < input.length ; i++) {
             list.add(input[i]);
         }
         list.sort(Integer::compareTo);
-        list.subList(0, 3);
-        return list;
+        ArrayList<Integer> ans = new ArrayList<>(list.subList(0, k));
+        return ans;
     }
 }
