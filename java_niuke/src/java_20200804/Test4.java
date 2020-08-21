@@ -33,22 +33,28 @@ public class Test4 {
             map.put(b, a );
         }
         array.sort(Integer::compareTo);
-        int cc = n-1;
+        //int cc = n-1;
         Arrays.sort(aa);// 金额 排序
         int result = 0;
         int ui = 0;// 统计桌子
         for (int i = m-1; i >= 0; i--) {
             // 问题 直接从最大开始了
-            //while (array.get(cc) )
-            int max_n = array.get(cc);// 桌子最大人数
+            // while (array.get(cc))
+            int tmp = map.get(aa[i]);
+            for (int j = 0; j < array.size(); j++) {
+                if (tmp <= array.get(j)) {
+                    array.set(j, 0);
+                    result += aa[i];
+                    ui++;
+                }
+            }
+            /*int max_n = array.get(cc);// 桌子最大人数
             if (map.get(aa[i]) <= max_n) {
-                ui++;
-                result += aa[i];
-                cc--;
-            }
-            for (int j = 0; j < cc ; j++) {
 
-            }
+
+                cc--;
+            }*/
+
             if (ui == n) {
                 break;
             }
