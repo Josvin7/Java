@@ -77,5 +77,26 @@ public class Test {/*
         private:
         vector<int> _bit;
         size_t _bitCount;
-    };*/
+    };
+
+    bool IsInBloomFilter(const K& key)
+    {
+        size_t bitCount = _bmp.Size();
+        size_t index1 = KToInt1()(key)%bitCount;
+        if(!_bmp.Test(index1))
+            return false;
+        size_t index2 = KToInt2()(key)%bitCount;
+        if(!_bmp.Test(index2))
+            return false;
+            size_t index3 = KToInt3()(key)%bitCount;
+        if(!_bmp.Test(index3))
+            return false;
+        size_t index4 = KToInt4()(key)%bitCount;
+        if(!_bmp.Test(index4))
+            return false;
+        size_t index5 = KToInt5()(key)%bitCount;
+        if(!_bmp.Test(index5))
+            return false;
+        return true; // 有可能在
+    } */
 }
