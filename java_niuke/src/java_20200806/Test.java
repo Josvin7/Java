@@ -3,6 +3,7 @@ package java_20200806;
 import java.util.*;
 public class Test{
     public static void main(String[] args){
+        int[][] x = new int[3][];
         try(Scanner in = new Scanner(System.in)){
             System.out.println(helper(in.nextInt(),in.nextInt()));
         }
