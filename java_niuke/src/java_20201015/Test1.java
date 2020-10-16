@@ -12,13 +12,23 @@ public class Test1 {
         int m = 90;
         int n = 80;
         int[] array = new int[m];
-
+/*
         for (int i = 1; i < m ; i++) {
             for (int j = 0; j < m-i ; j++) {
                 if (array[i] > array[j]) {
                     int temp = array[j];
                     array[j] = array[i];
                     array[i] = temp;
+                }
+
+
+            }
+
+        }*/
+        for (int i = 1; i < m ; i++) {
+            for (int j = 0; j < m-i ; j++) {
+                if (array[i] > array[j]) {
+                  //  swap（array[i], array[j]);
                 }
 
 
